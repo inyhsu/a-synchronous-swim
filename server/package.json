@@ -13,6 +13,7 @@
     "keypress": "^0.2.1",
     "nodemon": "^1.19.1",
     "parse-multipart": "^1.0.4",
+    "server": "^1.0.19",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
